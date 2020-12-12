@@ -63,7 +63,7 @@ class _SignUpState extends State<SignUp> {
                           fontWeight: FontWeight.bold),
                     ),
                     Container(
-                      width: 300,
+                      width: 200,
                       child: Material(
                         elevation: 10,
                         child: TextFormField(
